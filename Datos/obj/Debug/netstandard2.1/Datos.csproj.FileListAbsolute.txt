@@ -1,0 +1,108 @@
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\PROYECTO MICRO\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.pdb

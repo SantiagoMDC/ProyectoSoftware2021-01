@@ -1,0 +1,35 @@
+<section class="content">
+    <div class="row">
+        <div class="col-md-8">
+            <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Buscar por Establecimiento">
+        </div>
+        <div class="col-md-4">
+            <h4 style="text-align: center">SISTEMA DE FILTRADO</h4>
+        </div>
+    </div>
+<hr>
+    <table class="table table-striped" *ngIf='vinculaciones && vinculaciones.length'> 
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Codigo de Vinculacion</th>
+                <th scope="col">Codigo de Establecimiento</th>
+                <th scope="col">Nombre de Establecimiento</th>
+                <th scope="col">Codigo de Manipulador</th>
+                <th scope="col">Nombre de Manipulador</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let vinculaciones of vinculaciones|filtroVinculacion:searchText; index as i">
+                <th scope="row">{{ i + 1}}</th>
+                <td>{{vinculaciones.codigo}}</td>
+                <td>{{vinculaciones.codigoRestaurante}}</td>
+                <td>{{vinculaciones.nombreRestaurante}}</td>
+                <td>{{vinculaciones.codigoPersona}}</td>   
+                <td>{{vinculaciones.nombrePersona}}</td>   
+                <td><a class="btn btn-danger"><i class="fa fa-trash-o" aria-hidden="true"></i></a></td>
+            </tr>
+        </tbody>
+    </table>
+</section>

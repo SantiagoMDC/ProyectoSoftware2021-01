@@ -1,0 +1,126 @@
+C:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Logica.dll
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Logica.pdb
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Datos.dll
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Entity.dll
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Entity.pdb
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\bin\Debug\netstandard2.1\Datos.pdb
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.dll
+c:\Users\HP\Documents\PROYECTO MICRO\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\Proyecto\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Logica\obj\Debug\netstandard2.1\Logica.pdb

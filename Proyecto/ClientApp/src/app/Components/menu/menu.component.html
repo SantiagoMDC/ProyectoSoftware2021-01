@@ -1,0 +1,103 @@
+<aside class="main-sidebar">
+    <section class="sidebar">
+        <div class="user-panel">
+            <div class="pull-left info" style="position: initial;">
+                <p><b>Microbiologia</b></p>
+                <a href="#"><i class="fa fa-circle text-success"></i>Online</a>
+            </div>
+        </div>
+        <ul class="sidebar-menu" data-widget="tree">
+            <li class="header" style="position: initial; color: black;">
+                <b>CENTRO DE ACCIONES</b>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-plus-square"></i>
+                    <span>Gestion de registros</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a routerLink="/restauranteRegister">Restaurantes</a></li>
+                    <li><a routerLink="/personaRegister">Manipuladores</a></li>
+                    <li><a routerLink="/examenRegisterComponent">Examenes</a></li>
+                    
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-search"></i>
+                    <span>Gestion de consultas</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a routerLink="/restauranteConsulta">Restaurantes</a></li>
+                    <li><a routerLink="/personaConsulta">Manipuladores</a></li>
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-check-square"></i>
+                    <span>Lista de chequeo</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a routerLink="/listaChequeoRegister">Registrar</a></li>
+                    <li><a routerLink="/listaChequeoConsulta">Consultar</a></li>
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-recycle"></i>
+                    <span>Comp ambiental</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a routerLink="/ambientalRegister">Registrar</a></li>
+                    <li><a routerLink="/ambientalConsulta">Consultar</a></li>
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-github-alt"></i>
+                    <span>Comp veterinario</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a routerLink="/veterinariaRegister">Registrar</a></li>
+                    <li><a routerLink="/veterinariaConsulta">Consultar</a></li>
+                </ul>
+            </li>
+            
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-thumb-tack"></i>
+                    <span>Vincular</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a routerLink="/vinculacionComponent">Vincular Manipuladores</a></li>
+                    <li><a routerLink="/vinculacionConsultaComponent">Consultar</a></li>
+                </ul>
+            </li>
+            <ul class="sidebar-menu" data-widget="tree" style="margin-top: 120px;">
+                <li class="treeview">
+                    <a style="cursor: pointer;" (click)="logout()"><i class="fa fa-sign-out" ></i><span>Cerrar Sesion</span></a>
+                </li>
+            </ul>
+            
+        </ul>
+        
+    </section>
+</aside>

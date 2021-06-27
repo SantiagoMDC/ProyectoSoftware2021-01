@@ -1,0 +1,134 @@
+<section class="content">
+    <h2 style="text-align: center;">Lista de chequeo</h2>
+    <h6 style="text-align:center">C: CUMPLE - NC: NO CUMPLE - CP: CUMPLE PARCIALMENTE - NA: NO APLICA</h6>
+    <div class="row">
+        <div class="col-md-12">
+            <label>Buscar Restaurante</label>
+            <div class="box-body">
+                <div class="form-group">
+                    <div class="input-group">
+                      <input class="form-control" [(ngModel)]="restaurante.codigo">
+                      <button class="bt btn-primary" (click)="getR()" >Buscar</button>
+                    </div>                  
+                </div>
+            </div>
+        </div>
+     
+            <div class="col-md-6">
+                
+                <div class="box-body ">
+                    <div class="form-group">
+                        <label>Codigo de Establecimiento</label>
+                        <input disabled name="codigo" class ="form-control" [(ngModel)]="listaChequeo.codigoRestaurante">
+                    </div>
+                    <div class="form-group">
+                        <label>Nombre de Establecimiento</label>
+                        <input disabled name="nombre" class="form-control" [(ngModel)]="listaChequeo.nombreRestaurante">
+                    </div>
+                    <div class="form-group">
+                        <label>El personal manipulador tiene certificado medico:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item1">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>Los manipuladores acreditan cursos en higiene y protección de alimento:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item2">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>Los empleados que manipulan alimentos utilizan uniformes adecuados de color claro, limpio y calzado cerrado:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item3">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>Las manos de los trabajadores se encuentran limpias, son joyas, uñas cortas y sin esmalte:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item4">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>Los manipuladores evitan practicas antihigiénicas tales como comer, fumar, toser, escupir o rascarse:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item5">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="box-body">
+                   
+                    <div class="form-group">
+                        <label>Los manipuladores se lavan y se desinfectan las manos hasta el codo , cada vez que sea necesario:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item6">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>Se evidencian equipos e implementos de seguridad en funcionamiento y ubicados correctamente (extintores, campanas extractoras, barandas, etc.):</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item7">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div><div class="form-group">
+                        <label>El establecimiento dispone de botiquín bien dotado y ubicado en un lugar visible:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item8">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div><div class="form-group">
+                        <label>Se cuenta con equipos de protección personal en función de las actividades realizadas ej: guantes de malla metálica, chaquetas, etc.:</label>
+                        <select class="form-control" [(ngModel)]="listaChequeo.item9">
+                            <option value="C">C</option>
+                            <option value="NC">NC</option>
+                            <option value="CP">CP</option>
+                            <option value="NA">NA</option>
+                        </select>    
+                    </div>
+
+                    <div class="row" style="margin-top: 47px;">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label></label>
+                                <button class="btn btn-primary form-control" (click)="add()">Registrar</button>
+                            </div>                       
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <button class="btn btn-danger form-control" type="reset">Cancelar</button>
+                            </div>                       
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+        
+    </div>
+        
+
+
+</section>

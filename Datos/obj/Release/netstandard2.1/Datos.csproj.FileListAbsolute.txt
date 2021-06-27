@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.pdb
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.deps.json
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.dll
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.pdb
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Entity.dll
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Entity.pdb
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csprojAssemblyReference.cache
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfoInputs.cache
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfo.cs
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.dll
+c:\Users\HP\Documents\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.deps.json
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Datos.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\bin\Release\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Datos\obj\Release\netstandard2.1\Datos.pdb

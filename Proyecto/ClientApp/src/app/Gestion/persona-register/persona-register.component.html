@@ -1,0 +1,302 @@
+<section class="content">
+    <h2 style="text-align: center">Registrar Manipulador</h2>
+    <form [formGroup]="registerForm" (submit)="onSubmit()">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="box-body">
+            <h4 style="text-align: left">Datos Personales</h4>
+            <div class="form-group">
+              <label for="identificacion">Identificacion:</label>
+              <input formControlName="identificacion" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.identificacion.errors}" name="identificacion" type="text">
+              <div *ngIf="submitted && f.identificacion.errors"  class="invalid-feedback">
+                <div *ngIf="f.identificacion.errors.required">
+                  Se require identificacion
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="nombre">Nombre:</label>
+              <input formControlName="nombre" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.nombre.errors}" name="nombre" type="text" placeholder="Nombre">
+              <div *ngIf="submitted && f.nombre.errors"  class="invalid-feedback">
+                <div *ngIf="f.nombre.errors.required">
+                  Nombre es obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="apellido">Apellidos:</label>
+              <input formControlName="apellido" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.apellido.errors}" name="apellido" type="text" placeholder="Apellido(s)">
+              <div *ngIf="submitted && f.apellido.errors"  class="invalid-feedback">
+                <div *ngIf="f.apellido.errors.required">
+                  Apellido es obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="edad">Edad:</label>
+              <input formControlName="edad" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.edad.errors}" placeholder="Edad" name="edad" type="number">
+              <div *ngIf="submitted && f.edad.errors"  class="invalid-feedback">
+                <div *ngIf="f.edad.errors.required">
+                  Edad es obligatoria
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="sexo">Sexo:</label>
+              <select formControlName="sexo" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.sexo.errors}" name="sexo">
+                <option value="Femenino">Femenino</option>
+                <option value="Masculino">Masculino</option>
+              </select>
+              <div *ngIf="submitted && f.sexo.errors"  class="invalid-feedback">
+                <div *ngIf="f.sexo.errors.required">
+                  Sexo es obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="estadoCivil">Estado Civil:</label>
+              <input formControlName="estadoCivil" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.estadoCivil.errors}" placeholder="Estado civil" name="estadoCivil" type="text">
+              <div *ngIf="submitted && f.estadoCivil.errors"  class="invalid-feedback">
+                <div *ngIf="f.estadoCivil.errors.required">
+                  Estado civil es obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="paisDeProcedencia">Pais de procedencia:</label>
+              <input formControlName="paisDeProcedencia" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.paisDeProcedencia.errors}" name="paisDeProcedencia" type="text" placeholder="Pais de procedencia">
+              <div *ngIf="submitted && f.paisDeProcedencia.errors"  class="invalid-feedback">
+                <div *ngIf="f.paisDeProcedencia.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="box-body">
+            <h4 style="text-align: left;">Conocimientos</h4>
+            <div class="form-group">
+              <label for="conocimiento1">¿Conoce las normas de higiene para manipulación de alimentos?:</label>
+              <select formControlName="conocimiento1" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.conocimiento1.errors}" name="conocimiento1">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.conocimiento1.errors"  class="invalid-feedback">
+                <div *ngIf="f.conocimiento1.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="conocimiento2">¿Ha recibido  capacitación sobre buenas prácticas de manufactura?:</label>
+              <select formControlName="conocimiento2" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.conocimiento2.errors}" name="conocimiento2">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.conocimiento2.errors"  class="invalid-feedback">
+                <div *ngIf="f.conocimiento2.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="conocimiento3">¿De qué trata la  resolución 2674 del 2013?:</label>
+              <input formControlName="conocimiento3" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.conocimiento3.errors}" name="conocimiento3" placeholder="Respuesta" type="text">
+              <div *ngIf="submitted && f.conocimiento3.errors"  class="invalid-feedback">
+                <div *ngIf="f.conocimiento3.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="conocimiento4">¿Qué tipo de contaminación de los alimentos conoce?:</label>
+              <input formControlName="conocimiento4" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.conocimiento4.errors}" name="conocimiento4" placeholder="Respuesta" type="text">
+              <div *ngIf="submitted && f.conocimiento4.errors"  class="invalid-feedback">
+                <div *ngIf="f.conocimiento4.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="conocimiento5">¿Sabe qué es un alimento inocuo?:</label>
+              <select formControlName="conocimiento5" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.conocimiento5.errors}" name="conocimiento5">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.conocimiento5.errors"  class="invalid-feedback">
+                <div *ngIf="f.conocimiento5.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="conocimientoExplicacion">En caso afrimativo, la explicación ¿Fue correcta?:</label>
+              <select formControlName="conocimientoExplicacion" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.conocimientoExplicacion.errors}" name="conocimientoExplicacion">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.conocimientoExplicacion.errors"  class="invalid-feedback">
+                <div *ngIf="f.conocimientoExplicacion.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="nivelEducativo">Nivel Educativo:</label>
+              <input formControlName="nivelEducativo" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.nivelEducativo.errors}" name="nivelEducativo" type="text" placeholder="Nivel educativo">
+              <div *ngIf="submitted && f.nivelEducativo.errors"  class="invalid-feedback">
+                <div *ngIf="f.nivelEducativo.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="box-body">
+            <h4 style="text-align: left;">Actitudes</h4>
+            <div class="form-group">
+              <label for="actitud1">¿Considera necesaria una capacitación sobre normas de higiene y manipulación de alimentos para mejorar sus procesos y su negocio?:</label>
+              <select formControlName="actitud1" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.actitud1.errors}" name="actitud1">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.actitud1.errors"  class="invalid-feedback">
+                <div *ngIf="f.actitud1.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="actitud2">¿Ha renovado el último año su certificado médico?:</label>
+              <select formControlName="actitud2" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.actitud2.errors}" name="actitud2">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.actitud2.errors"  class="invalid-feedback">
+                <div *ngIf="f.actitud2.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="actitud3">¿Se ha realizado los exámenes para manipuladores de alimentos (KOH de uñas, Frotis de garganta y coprológico?:</label>
+              <select formControlName="actitud3" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.actitud3.errors}" name="actitud3">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.actitud3.errors"  class="invalid-feedback">
+                <div *ngIf="f.actitud3.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="actitudExplicacion">En caso afirmativo ¿hace cuánto? :</label>
+              <select formControlName="actitudExplicacion" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.actitudExplicacion.errors}" name="actitudExplicacion">
+                <option value="Menos de un mes">Menos de un mes</option>
+                <option value="Menos de un año">Menos de un año</option>
+                <option value="Mas de un año">Mas de un año</option>
+              </select>
+              <div *ngIf="submitted && f.actitudExplicacion.errors"  class="invalid-feedback">
+                <div *ngIf="f.actitudExplicacion.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="actitud5">¿¿Considera que manipular alimentos con las uñas largas y pintadas puede ser inapropiado?:</label>
+              <select formControlName="actitud5" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.actitud5.errors}" name="actitud5">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.actitud5.errors"  class="invalid-feedback">
+                <div *ngIf="f.actitud5.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="box-body">
+            <h4 style="text-align: left;">Practicas</h4>
+            <div class="form-group">
+              <label for="practica1">¿Utiliza bata,  tapa bocas y malla para cubrir el cabello mientras manipula alimentos?:</label>
+              <select formControlName="practica1" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.practica1.errors}" name="practica1">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.practica1.errors"  class="invalid-feedback">
+                <div *ngIf="f.practica1.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="practica2">¿Manipula alimentos y dinero al mismo tiempo?:</label>
+              <select formControlName="practica2" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.practica2.errors}" name="practica2">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.practica2.errors"  class="invalid-feedback">
+                <div *ngIf="f.practica2.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="practica3">¿Con qué frecuencia se lava las manos para manipular alimentos?:</label>
+              <select formControlName="practica3" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.practica3.errors}" name="practica3">
+                <option value="Muy frecuente">Muy frecuente</option>
+                <option value="Frecuente">Poco frecuente</option>
+              </select>
+              <div *ngIf="submitted && f.practica3.errors"  class="invalid-feedback">
+                <div *ngIf="f.practica3.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="practica4">Al momento de preparar alimentos ¿retira sus prendas?:</label>
+              <select formControlName="practica4" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.practica4.errors}" name="practica4">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.practica4.errors"  class="invalid-feedback">
+                <div *ngIf="f.practica4.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label form="actitud6">¿Considera que el uso de prendas puede afectar negativamente el proceso de manipulación de alimentos?:</label>
+              <select formControlName="actitud6" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.actitud6.errors}" name="actitud6">
+                <option value="Si">Si</option>
+                <option value="No">No</option>
+              </select>
+              <div *ngIf="submitted && f.actitud6.errors"  class="invalid-feedback">
+                <div *ngIf="f.actitud6.errors.required">
+                  Campo obligatorio
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row" style="margin-top: 47px;">
+        <div class="col-md-6">
+          <div class="form-group">
+            <label></label>
+            <button class="btn btn-primary form-control" type="submit">Registrar</button>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-group">
+            <button class="btn btn-danger form-control" type="reset">Cancelar</button>
+          </div>
+        </div>
+      </div>
+    </form>
+</section>

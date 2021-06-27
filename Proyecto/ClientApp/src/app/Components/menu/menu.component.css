@@ -1,0 +1,26 @@
+.main-sidebar {
+    border-radius:50px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    padding:2px 15;
+    margin: 0px;
+    
+    
+    }
+    .user-panel {
+        border: 0px solid #86848438;
+        border-radius:50px;
+        -moz-border-radius:15px;
+        -webkit-border-radius:5px;
+        padding:2px 15;
+        margin: 0px;
+    }
+    .header {
+        border: 0px solid #86848438;
+        border-radius:50px;
+        -moz-border-radius:15px;
+        -webkit-border-radius:5px;
+        padding:2px 15;
+        margin: 0px;
+        font-size: small;
+    }

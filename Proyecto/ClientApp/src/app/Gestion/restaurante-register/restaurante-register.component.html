@@ -1,0 +1,63 @@
+<section class="content">
+    <h2 style="text-align: center;">Registrar Restaurante</h2>
+    <form [formGroup]="formRegister" (submit)="onSubmit()">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="box-body ">
+            <div class="form-group">
+              <label for="codigo">Codigo:</label>
+              <input formControlName="codigo" class="form-control" name="codigo" [ngClass]="{ 'is-invalid':submitted && f.codigo.errors}" type="text" placeholder="Codigo restaurante">
+              <div *ngIf="submitted && f.codigo.errors" class="invalid-feedback">
+                <div *ngIf="f.codigo.errors.required">
+                  Codigo obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="nombre">Nombre de establecimiento:</label>
+              <input formControlName="nombre" class="form-control" [ngClass]="{ 'is-invalid':submitted && f.nombre.errors}" type="text" placeholder="Nombre restaurante" name="nombre">
+              <div *ngIf="submitted && f.nombre.errors" class="invalid-feedback">
+                <div *ngIf="f.nombre.errors.required">
+                  nombre restaurante obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="direccion">Direccion:</label>
+              <input formControlName="direccion" class="form-control" name="direccion" type="text" [ngClass]="{ 'is-invalid':submitted && f.direccion.errors}" placeholder="Direccion restaurante">
+              <div *ngIf="submitted && f.direccion.errors" class="invalid-feedback">
+                <div *ngIf="f.direccion.errors.required">
+                  direccion restaurante obligatoria
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="telefono">Telefono:</label>
+              <input class="form-control" formControlName="telefono" name="telefono" type="text" [ngClass]="{ 'is-invalid':submitted && f.telefono.errors}" placeholder="Telefono restaurante">
+              <div *ngIf="submitted && f.telefono.errors" class="invalid-feedback">
+                <div *ngIf="f.telefono.errors.required">
+                  telefono restaurante obligatorio
+                </div>
+              </div>
+            </div>
+            <div class="row" style="margin-top: 47px;">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label></label>
+                  <button class="btn btn-primary form-control" type="submit">Registrar</button>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <button class="btn btn-danger form-control" type="reset" (click)="onReset()">Cancelar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <img src="https://restaurantevitto.com/wp-content/uploads/sites/62/2019/05/RestauranteVitto_Espacio_15.jpg" width="600" height="400">
+        </div>
+      </div>
+    </form>
+</section>

@@ -1,0 +1,107 @@
+<section class="content">
+    <h2 style="text-align: center;">COMPONENTE VETERINARIO</h2>
+   
+    <div class="row">
+        <div class="col-md-12">
+            <label>Buscar Manipulador</label>
+            <div class="box-body">
+                <div class="form-group">
+                    <div class="input-group">
+                      <input class="form-control" [(ngModel)]="persona.identificacion">
+                      <button class="bt btn-primary" (click)="getR()" >Buscar</button>
+                    </div>                  
+                </div>
+            </div>
+        </div>
+     
+            <div class="col-md-6">
+                
+                <div class="box-body ">
+                    <div class="form-group">
+                        <label>Codigo de Manipulador</label>
+                        <input  name="codigo" class ="form-control" [(ngModel)]="veterinaria.codigoManipulador">
+                    </div>
+                    <div class="form-group">
+                        <label>Nombre de Manipulador</label>
+                        <input  name="nombre" class="form-control" [(ngModel)]="veterinaria.nombreManipulador">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>¿En su hogar convive con animales de fauna silvestre?:</label>
+                        <select class="form-control" [(ngModel)]="veterinaria.item1">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select> 
+                    </div>
+                    <div class="form-group">
+                        <label>Indique la especie y la cantidad con la que convive, si cuentas con más de 1 especie especifiqué la cantidad de cada una. :</label>
+                        <input  class="form-control" [(ngModel)]="veterinaria.item2">
+                           
+                    </div>
+                    <div class="form-group">
+                        <label>De los animales silvestres que usted tiene en casa, ¿Con que frecuencia los desparasita?:</label>
+                        <select  class="form-control" [(ngModel)]="veterinaria.item3">
+                            <option value="Mensual">Mensual</option>
+                            <option value="Semestral">Semestral</option>
+                            <option value="Anual">Anual</option>
+                            <option value="Nunca">Nunca</option>
+                        </select>    
+                    </div>
+                    
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="box-body">
+                    <div class="form-group">
+                        <label>De los animales silvestres que usted tiene en casa, ¿Con que frecuencia los vacuna?:</label>
+                        <select  class="form-control" [(ngModel)]="veterinaria.item4">
+                            <option value="Mensual">Mensual</option>
+                            <option value="Semestral">Semestral</option>
+                            <option value="Anual">Anual</option>
+                            <option value="Nunca">Nunca</option>
+                        </select>    
+                    </div>
+            
+                    <div class="form-group">
+                        <label>¿Cuánto tiempo tiene usted conviviendo con este o estos animales de fauna silvestre?:</label>
+                        <select  class="form-control" [(ngModel)]="veterinaria.item5">
+                            <option value="De 1 a 12 meses">De 1 a 12 meses</option>
+                            <option value="De 2 a 5 años">De 2 a 5 años</option>
+                            <option value="De 5 a 10 años">De 5 a 10 años</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>El animal en cautiverio recibe de los alimentos consumidos por los integrantes del hogar?
+                            Aquellos alimentos que no sean pertenecientes a la dieta normal de la especie en su hábitat natural.   Ejemplo: panes, carnes condimentadas, galletas etc.
+                            </label>
+                        <select  class="form-control" [(ngModel)]="veterinaria.item6">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    
+                   
+
+                    <div class="row" style="margin-top: 47px;">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label></label>
+                                <button class="btn btn-primary form-control" (click)="add()">Registrar</button>
+                            </div>                       
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <button class="btn btn-danger form-control" type="reset">Cancelar</button>
+                            </div>                       
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+        
+    </div>
+        
+
+
+</section>

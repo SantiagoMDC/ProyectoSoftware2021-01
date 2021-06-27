@@ -1,0 +1,27 @@
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.pdb
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.deps.json
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.dll
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.pdb
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.csprojAssemblyReference.cache
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfoInputs.cache
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfo.cs
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.dll
+c:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.deps.json
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\bin\Release\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Release\netstandard2.1\Entity.pdb

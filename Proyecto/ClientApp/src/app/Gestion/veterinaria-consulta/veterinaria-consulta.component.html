@@ -1,0 +1,56 @@
+<section class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <h6 style="text-align:left" style="color: green;">Item 1: ¿Tiene alguna idea de que es abono orgánico?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 2: ¿Conoce usted cuales son los desechos orgánicos que podemos reutilizar en el hogar?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 3: ¿Usted considera que es benéfico la implementacion del abono orgánico para el medio ambiente?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 4: ¿Usted en el hogar elimina los desechos orgánicos a la basura?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 5: ¿Usted utiliza los desechos orgánicos para elaborar abono doméstico y mejorar el medio ambiente de su comunidad?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 6: ¿Le gustaría implementar el abono orgánico para el fortalecimiento de sus cultivos, de sus jardines o huertas caseras?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 7: ¿Usted conoce los beneficios que recibe el suelo al aplicar el abono orgánico?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 8: ¿Sabia que uno de los principales problemas de la contaminación ambiental esta relacionado con la no utilización de los desechos orgánicos?</h6>
+            <h6 style="text-align:left" style="color: green;">Item 9: ¿Estaría dispuesto a desarrollar acciones para proteger el medio ambiente?</h6>
+        </div>
+    </div>
+    <br> <br>
+    <div class="row">
+        
+        <div class="col-md-8">
+            <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Buscar por Manipulador">
+        </div>
+        <div class="col-md-4">
+            <h4 style="text-align: center">SISTEMA DE FILTRADO</h4>
+        </div>
+
+    </div>
+<hr>
+    <table class="table table-striped" *ngIf='veterinaria && veterinaria.length'> 
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Codigo de Manipulador</th>
+                <th scope="col">Nombre de Manipulador</th>
+                <th scope="col">Item 1</th>
+                <th scope="col">Item 2</th>
+                <th scope="col">Item 3</th>
+                <th scope="col">Item 4</th>
+                <th scope="col">Item 5</th>
+                <th scope="col">Item 6</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let veterinaria of veterinaria; index as i">
+                <th scope="row">{{ i + 1}}</th>
+                <td>{{veterinaria.codigoManipulador}}</td>
+                <td>{{veterinaria.nombreManipulador}}</td>
+                <td>{{veterinaria.item1}}</td>
+                <td>{{veterinaria.item2}}</td>   
+                <td>{{veterinaria.item3}}</td>
+                <td>{{veterinaria.item4}}</td>
+                <td>{{veterinaria.item5}}</td>
+                <td>{{veterinaria.item6}}</td>
+                
+            </tr>
+        </tbody>
+    </table>
+</section>

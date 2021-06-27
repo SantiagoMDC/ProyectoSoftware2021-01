@@ -1,0 +1,62 @@
+<section class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <h6 style="text-align:left" style="color: green;">Item 1: El personal manipulador tiene certificado medico</h6>
+            <h6 style="text-align:left" style="color: green;" >Item 2: Los manipuladores acreditan cursos en higiene y protección de alimento</h6>
+            <h6 style="text-align:left" style="color: green;">Item 3: Los empleados que manipulan alimentos utilizan uniformes adecuados de color claro, limpio y calzado cerrado</h6>
+            <h6 style="text-align:left" style="color: green;">Item 4: Las manos de los trabajadores se encuentran limpias, son joyas, uñas cortas y sin esmalte</h6>
+            <h6 style="text-align:left" style="color: green;">Item 5: Los manipuladores evitan practicas antihigiénicas tales como comer, fumar, toser, escupir o rascarse</h6>
+            <h6 style="text-align:left" style="color: green;">Item 6: Los manipuladores se lavan y se desinfectan las manos hasta el codo , cada vez que sea necesario</h6>
+            <h6 style="text-align:left" style="color: green;">Item 7: Se evidencian equipos e implementos de seguridad en funcionamiento y ubicados correctamente (extintores, campanas extractoras, barandas, etc.)</h6>
+            <h6 style="text-align:left" style="color: green;">Item 8: El establecimiento dispone de botiquín bien dotado y ubicado en un lugar visible</h6>
+            <h6 style="text-align:left" style="color: green;">Item 9: Se cuenta con equipos de protección personal en función de las actividades realizadas ej: guantes de malla metálica, chaquetas, etc.</h6>
+        </div>
+    </div>
+    <br> <br>
+    <div class="row">
+        
+        <div class="col-md-8">
+            <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Buscar por Establecimiento">
+        </div>
+        <div class="col-md-4">
+            <h4 style="text-align: center">SISTEMA DE FILTRADO</h4>
+        </div>
+
+    </div>
+<hr>
+    <table class="table table-striped" *ngIf='listaChequeos && listaChequeos.length'> 
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Codigo de Establecimiento</th>
+                <th scope="col">Nombre de Establecimiento</th>
+                <th scope="col">Item 1</th>
+                <th scope="col">Item 2</th>
+                <th scope="col">Item 3</th>
+                <th scope="col">Item 4</th>
+                <th scope="col">Item 5</th>
+                <th scope="col">Item 6</th>
+                <th scope="col">Item 7</th>
+                <th scope="col">Item 8</th>
+                <th scope="col">Item 9</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let listaChequeos of listaChequeos; index as i">
+                <th scope="row">{{ i + 1}}</th>
+                <td>{{listaChequeos.codigoRestaurante}}</td>
+                <td>{{listaChequeos.nombreRestaurante}}</td>
+                <td>{{listaChequeos.item1}}</td>
+                <td>{{listaChequeos.item2}}</td>   
+                <td>{{listaChequeos.item3}}</td>
+                <td>{{listaChequeos.item4}}</td>
+                <td>{{listaChequeos.item5}}</td>
+                <td>{{listaChequeos.item6}}</td>
+                <td>{{listaChequeos.item7}}</td>
+                <td>{{listaChequeos.item8}}</td>
+                <td>{{listaChequeos.item9}}</td>
+                
+            </tr>
+        </tbody>
+    </table>
+</section>

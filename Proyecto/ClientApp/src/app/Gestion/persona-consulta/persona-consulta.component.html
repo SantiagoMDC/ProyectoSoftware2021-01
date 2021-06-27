@@ -1,0 +1,42 @@
+<section class="content">
+    <div class="row">
+        <div class="col-md-8">
+            <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Buscar ID ó Nombre">
+        </div>
+        <div class="col-md-4">
+            <h4 style="text-align: center">SISTEMA DE FILTRADO</h4>
+        </div>
+    </div>
+<hr>
+    <table class="table table-striped" *ngIf='personas && personas.length'> 
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Identificacion</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">Edad</th>
+                <th scope="col">Sexo</th>
+                <th scope="col">EstadoCivil</th>
+                <th scope="col">PaisDeProcedencia</th>
+                <th scope="col">NivelEducativo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let persona of personas|filtroPersona:searchText; index as i">
+                <th scope="row">{{ i + 1}}</th>
+                <td>{{persona.identificacion}}</td>
+                <td>{{persona.nombre}}</td>
+                <td>{{persona.apellido}}</td>
+                <td>{{persona.edad}}</td>
+                <td>{{persona.sexo}}</td>
+                <td>{{persona.estadoCivil}}</td>
+                <td>{{persona.paisDeProcedencia}}</td>
+                <td>{{persona.nivelEducativo}}</td> 
+                <td><a class="btn btn-danger"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
+                    <a class="btn btn-primary"><i class="fa fa-edit" aria-hidden="true"></i></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</section>

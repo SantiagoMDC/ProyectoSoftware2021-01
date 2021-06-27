@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdJYAAbKw+TDJ7yysYfOSRO3hNEuAbZYQXPFHqjWEmI/Pccq6RUrsGYHtaXGv1j6FYUnfeNMfXoag6ncYyXMxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santi\\Documents\\2021-1\\Ingenieria de software\\Proyecto\\Proyecto Software\\ProyectoMicroAlParque\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

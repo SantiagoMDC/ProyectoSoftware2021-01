@@ -1,0 +1,125 @@
+<section class="content">
+    <h2 style="text-align: center;">COMPONENTE AMBIENTAL</h2>
+   
+    <div class="row">
+        <div class="col-md-12">
+            <label>Buscar Manipulador</label>
+            <div class="box-body">
+                <div class="form-group">
+                    <div class="input-group">
+                      <input class="form-control" [(ngModel)]="persona.identificacion">
+                      <button class="bt btn-primary" (click)="getR()" >Buscar</button>
+                    </div>                  
+                </div>
+            </div>
+        </div>
+     
+            <div class="col-md-6">
+                
+                <div class="box-body ">
+                    <div class="form-group">
+                        <label>Codigo de Manipulador</label>
+                        <input disabled name="codigo" class ="form-control" [(ngModel)]="ambiental.codigoManipulador">
+                    </div>
+                    <div class="form-group">
+                        <label>Nombre de Manipulador</label>
+                        <input disabled name="nombre" class="form-control" [(ngModel)]="ambiental.nombreManipulador">
+                    </div>
+                    <div class="form-group">
+                        <label>Barrio</label>
+                        <input  name="barrio" class="form-control" [(ngModel)]="ambiental.barrio">
+                    </div>
+                    <div class="form-group">
+                        <label>¿Tiene alguna idea de que es abono orgánico?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item1">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>¿Conoce usted cuales son los desechos orgánicos que podemos reutilizar en el hogar?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item2">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>¿Usted considera que es benéfico la implementacion del abono orgánico para el medio ambiente?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item3">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>¿Usted en el hogar elimina los desechos orgánicos a la basura?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item4">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="box-body">
+                   
+            
+                    <div class="form-group">
+                        <label>¿Usted utiliza los desechos orgánicos para elaborar abono doméstico y mejorar el medio ambiente de su comunidad?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item5">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>¿Le gustaría implementar el abono orgánico para el fortalecimiento de sus cultivos, de sus jardines o huertas caseras?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item6">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label> ¿Usted conoce los beneficios que recibe el suelo al aplicar el abono orgánico?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item7">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>¿Sabia que uno de los principales problemas de la contaminación ambiental esta relacionado con la no utilización de los desechos orgánicos?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item8" >
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                    <div class="form-group">
+                        <label>¿Estaría dispuesto a desarrollar acciones para proteger el medio ambiente?:</label>
+                        <select class="form-control" [(ngModel)]="ambiental.item9">
+                            <option value="SI">SI</option>
+                            <option value="NO">NO</option>
+                        </select>    
+                    </div>
+                   
+
+                    <div class="row" style="margin-top: 47px;">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label></label>
+                                <button class="btn btn-primary form-control" (click)="add()">Registrar</button>
+                            </div>                       
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <button class="btn btn-danger form-control" type="reset">Cancelar</button>
+                            </div>                       
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+        
+    </div>
+        
+
+
+</section>

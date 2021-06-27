@@ -1,0 +1,81 @@
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTO MICRO\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\PROYECTOMICRO\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\Proyecto\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Desktop\Proyecto\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\Proyecto\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\Proyecto\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\Proyecto\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\LUISK\Source\Repos\SantiagoMDC\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicr\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque-master\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\ProyectoMicro\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Documents\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\Users\santi\Documents\2021-1\Ingenieria de software\Proyecto\Proyecto Software\ProyectoMicroAlParque\Entity\obj\Debug\netstandard2.1\Entity.pdb

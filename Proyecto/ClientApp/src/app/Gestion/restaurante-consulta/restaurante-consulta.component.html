@@ -1,0 +1,37 @@
+<section class="content">
+    <div class="row">
+        <div class="col-md-8">
+            <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Buscar ID ó Nombre">
+        </div>
+        <div class="col-md-4">
+            <h4 style="text-align: center">SISTEMA DE FILTRADO</h4>
+        </div>
+    </div>
+<hr>
+    <table class="table table-striped" *ngIf='restaurantes && restaurantes.length'> 
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Codigo</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Direccion</th>
+                <th scope="col">Telefono</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let restaurantes of restaurantes|filtroRestaurante:searchText; index as i">
+                <th scope="row">{{ i + 1}}</th>
+                <td>{{restaurantes.codigo}}</td>
+                <td>{{restaurantes.nombre}}</td>
+                <td>{{restaurantes.direccion}}</td>
+                <td>{{restaurantes.telefono}}</td>   
+                <td><a class="btn btn-danger"><i class="fa fa-trash-o" aria-hidden="true"></i></a>
+                    --
+                    <a class="btn btn-primary"><i class="fa fa-edit" aria-hidden="true" routerLink="/restauranteUpdate/{{restaurantes.codigo}}"></i></a>
+                </td>
+                
+            
+            </tr>
+        </tbody>
+    </table>
+</section>

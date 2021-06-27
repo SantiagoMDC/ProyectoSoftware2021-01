@@ -1,0 +1,66 @@
+<div class="content">
+    <h2 style="text-align: center;">VINCULAR MANIPULADOR A RESTAURANTE</h2>
+  
+    <div class="row">
+        <div class="col-md-12">
+            <label>Buscar Manipulador</label>
+            <div class="box-body">
+                <div class="form-group">
+                    <div class="input-group">
+                     
+                        <input class="form-control" [(ngModel)]="persona.identificacion">
+                            <button class="bt btn-primary" (click)="getP()" >Buscar</button>
+                      
+                    </div>                  
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6" style="border: 1px solid slategrey">
+            <h4 style="text-align: center;">Datos de manipulador</h4>
+
+            <div class="form-group">
+              <label>Codigo de Manipuladoro</label>
+              <input disabled name="identificacion" class ="form-control" [(ngModel)]="vinculacion.codigoPersona">
+            </div>
+            <div class="form-group">
+                <label>Nombre de Manipulador</label>
+                <input disabled name="nombre" class ="form-control" [(ngModel)]="vinculacion.nombrePersona">
+            </div>
+            
+        </div>
+        <div class="col-md-6" style="border: 1px solid slategrey">
+            <h4 style="text-align: center;">Datos de examen</h4>
+
+            <div class="form-group">
+                <label>Codigo de examen</label>
+                <input  name="codigo" class ="form-control" >
+            </div>
+            <div class="form-group">
+                <label>Nombre de examen</label>
+                <input  name="nombre" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Tipo de examen</label>
+                <input  name="tipo" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Cargar examen</label>
+                <input type="file" name="carga">
+            </div>
+            
+            
+        </div>
+        <div class="col-md-12">
+            <h2></h2>
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+              <label></label>
+              <button class="btn btn-vinculo form-control" (click)="add()">Vincular</button>
+            </div>
+          </div>
+
+
+    </div>
+</div>
