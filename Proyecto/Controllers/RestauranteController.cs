@@ -81,6 +81,23 @@ namespace Proyecto.Controllers
             return _restaurante;
         }
 
+        [HttpPut]
+        public ActionResult<Restaurante> UpdateRestaurante(Restaurante restauranteNueva)
+        {
+            var response = _restauranteService.ActualizarRestaurante(restauranteNueva);
+            if (response.Error)
+            {
+                ModelState.AddModelError("Mensjae",response.Mensaje);
+            }
+            if (!ModelState.IsValid)
+            {
+                var problemDetails = new ValidationProblemDetails(ModelState){
+                    Status = StatusCodes.Status400BadRequest
+                };
+                return BadRequest(problemDetails);
+            }
+            return Ok(response.Restaurante);
+        }
         
     }
 }

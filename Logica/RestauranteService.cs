@@ -72,5 +72,48 @@ namespace Logica
             return restaurante;
         }
 
+        public RestauranteResponse ActualizarRestaurante(Restaurante restaurante)
+        {
+            try
+            {
+              
+                Restaurante restauranteEcontrado = _context.restaurantes.Find(restaurante.Codigo);
+                if (restauranteEcontrado != null)
+                {
+                    restauranteEcontrado.Nombre = restaurante.Nombre;
+                    restauranteEcontrado.Direccion = restaurante.Direccion;
+                    restauranteEcontrado.Telefono = restaurante.Telefono;
+                    _context.restaurantes.Update(restauranteEcontrado);
+                    _context.SaveChanges();
+                    return  new RestauranteResponse(restauranteEcontrado);
+                }else
+                {
+                      return new RestauranteResponse($"El restaurante {restaurante.Nombre} no existe no se encontro"); 
+                }
+            }
+            catch(Exception e)
+            {
+                return new RestauranteResponse("Error:" + e.Message);
+            }           
+                  
+        }
+       
+       public class RestauranteResponse
+       {
+           public RestauranteResponse(Restaurante restaurante)
+           {
+                Error = false;
+                Restaurante = restaurante;
+           }
+           public RestauranteResponse(string mensaje)
+           {
+               Error =  true;
+               Mensaje = mensaje;
+           }
+
+           public string Mensaje { get; set; }
+           public bool Error { get; set; }
+           public Restaurante Restaurante { get; set; }
+       }
     }
 }

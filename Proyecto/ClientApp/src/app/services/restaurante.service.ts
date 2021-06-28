@@ -1,10 +1,13 @@
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Inject, Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { catchError, tap } from 'rxjs/operators';
 import { HandleHttpErrorService } from '../@base/handle-http-error.service';
 import { Restaurante } from '../models/restaurante';
 
+const httpOptions = {
+  headers: new HttpHeaders({'Content-Type':'application/json'})
+};
 @Injectable({
   providedIn: 'root'
 })
@@ -34,6 +37,13 @@ export class RestauranteService {
     );
   }
 
+  updateRestaurante(restaurante:Restaurante):Observable<Restaurante>
+  {
+    return this.http.put<Restaurante>(this.baseUrl + 'api/Restaurante', restaurante,httpOptions).pipe(
+      tap((restauranteNew:Restaurante) => this.handleErrorService.log(`Modificado el restaurante con codigo ${restauranteNew.codigo}`)),
+      catchError(this.handleErrorService.handleError<Restaurante>('Error al modificar'))
+    );
+  }
   
 
 
