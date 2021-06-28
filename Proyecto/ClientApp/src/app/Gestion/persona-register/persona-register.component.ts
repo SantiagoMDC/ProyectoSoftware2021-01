@@ -95,7 +95,7 @@ export class PersonaRegisterComponent implements OnInit {
       if (p != null) {
         const messageBox = this.modalService.open(AlertModalComponent)
         messageBox.componentInstance.title = "Resultado Operación";
-        messageBox.componentInstance.message = 'Restaurante Registrado Con exito!! :-)';
+        messageBox.componentInstance.message = 'Manipulador Registrado Con exito!! :-)';
         this.onReset();
       }
     })

@@ -2,6 +2,8 @@ import { Location } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import { AlertModalComponent } from 'src/app/@base/alert-modal/alert-modal.component';
 import { Restaurante } from 'src/app/models/restaurante';
 import { RestauranteService } from 'src/app/services/restaurante.service';
 
@@ -12,7 +14,7 @@ import { RestauranteService } from 'src/app/services/restaurante.service';
 })
 export class RestauranteModificarComponent implements OnInit {
 
-  constructor(private location:Location,private route:ActivatedRoute,private formBuilder:FormBuilder,private restauranteService:RestauranteService) { }
+  constructor(private location:Location,private route:ActivatedRoute,private formBuilder:FormBuilder,private restauranteService:RestauranteService,private modalService: NgbModal) { }
 
   registerForm : FormGroup;
   restaurante:Restaurante;
@@ -49,6 +51,9 @@ export class RestauranteModificarComponent implements OnInit {
 
   }
   goBack(): void {
+    const messageBox = this.modalService.open(AlertModalComponent)
+        messageBox.componentInstance.title = "Resultado Operación";
+        messageBox.componentInstance.message = 'Restaurante Actualizado Con exito!! :-)';
     this.location.back();
   }
 

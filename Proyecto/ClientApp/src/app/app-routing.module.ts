@@ -23,6 +23,7 @@ import { AuthGuard } from './services/auth.guard';
 
 import { from } from 'rxjs';
 import { RestauranteModificarComponent } from './Gestion/restaurante-modificar/restaurante-modificar.component';
+import { PersonaViewComponent } from './Gestion/persona-view/persona-view.component';
 const routes:Routes = [
   {path: '', redirectTo:'/loginComponent', pathMatch:'full'},
   {
@@ -108,6 +109,11 @@ const routes:Routes = [
   {
     path:'restauranteUpdate/:codigo',
     component:RestauranteModificarComponent,canActivate: [AuthGuard]
+
+  },
+  {
+    path:'personaView/:identificacion',
+    component:PersonaViewComponent,canActivate: [AuthGuard]
 
   }
 ];

@@ -37,6 +37,7 @@ import { AmbientalConsultaComponent } from './Gestion/ambiental-consulta/ambient
 import { VeterinariaConsultaComponent } from './Gestion/veterinaria-consulta/veterinaria-consulta.component';
 import { ExamenConsultaComponent } from './Gestion/examen-consulta/examen-consulta.component';
 import { RestauranteModificarComponent } from './Gestion/restaurante-modificar/restaurante-modificar.component';
+import { PersonaViewComponent } from './Gestion/persona-view/persona-view.component';
 
 
 @NgModule({
@@ -69,7 +70,8 @@ import { RestauranteModificarComponent } from './Gestion/restaurante-modificar/r
     AmbientalConsultaComponent,
     VeterinariaConsultaComponent,
     ExamenConsultaComponent,
-    RestauranteModificarComponent
+    RestauranteModificarComponent,
+    PersonaViewComponent
   ],
   imports: [
     ReactiveFormsModule,
